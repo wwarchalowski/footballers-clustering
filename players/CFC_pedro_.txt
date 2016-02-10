@@ -1,0 +1,140 @@
+Physical skills
+Pace	
+
+
+ 	16	
+Strength	
+
+
+ 	11	
+Jumping	
+
+
+ 	13	
+Stamina	
+
+
+ 	16	
+Agility	
+
+
+ 	17	
+Balance	
+
+
+
+ 	16	
+Resistance	
+
+
+
+ 	15	
+Mental skills
+Positioning	
+
+
+ 	17	
+Anticipation	
+
+
+ 	17	
+Flair	
+
+
+ 	17	
+Leadership	
+
+
+ 	13	
+Agressivity	
+
+
+ 	14	
+Fighting Spirit	
+
+
+
+ 	14	
+Composure	
+
+
+ 	13	
+Rigour	
+
+
+
+ 	16	
+Game vision	
+
+
+ 	15	
+Teamwork	
+
+
+ 	16	
+Creativity	
+
+
+ 	16	
+Behavior	
+
+
+
+ 	17	
+Compliance	
+
+
+ 	17	
+Technical skills
+Finishing	
+
+
+ 	16	
+Long shots	
+
+
+ 	14	
+Crossing	
+
+
+ 	16	
+Free Kicks	
+
+
+ 	11	
+Shot power	
+
+
+ 	14	
+Ball Control	
+
+
+ 	17	
+Technique	
+
+
+ 	17	
+Dribbling	
+
+
+ 	17	
+Off the Ball	
+
+
+ 	10	
+Marking	
+
+
+ 	6	
+Heading	
+
+
+ 	6	
+Right foot	
+
+
+ 	18	
+Left foot	
+
+
+ 	12	
